@@ -1,0 +1,19 @@
+{
+  "name": "donation_bot",
+  "version": "1.0.0",
+  "description": "Used to accept any incoming donations",
+  "main": "login.js",
+  "dependencies": {
+    "steam-totp": "^2.0.1",
+    "steam-tradeoffer-manager": "^2.7.3",
+    "steam-user": "^3.21.3",
+    "steamcommunity": "^3.30.7",
+    "steamid": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xLeeJYx",
+  "license": "ISC"
+}

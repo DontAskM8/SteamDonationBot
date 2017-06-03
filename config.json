@@ -1,0 +1,7 @@
+{
+	"username": "USERNAME",
+	"password": "PASSWORD",
+	"shared_secret": "SHARED SECRET",
+	"identity_secret": "IDENTITY SECRET",
+	"idle": GAME ID TO IDLE //EG. 440 for TF2. 730 for CSGO (You can delete this whole line)
+}
